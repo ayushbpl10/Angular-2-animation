@@ -5,13 +5,15 @@ You must have node.js and npm installed on your machine.
 
 #Installation
 
-In cmd type
-npm install
+In cmd type move to the location of the directory where you have unzipped the downloaded directory.
+
+``npm install``
 
 This will create a directory by the name of node_modules.
 
 Again in cmd type 
-npm start
+
+``npm start``
 
 Now, the browser shall automatically open at localhost:XXXX where XXXX is the port at which the application starts. 
 For eg: localhost:3000
